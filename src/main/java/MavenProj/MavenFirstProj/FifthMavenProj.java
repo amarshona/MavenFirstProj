@@ -30,4 +30,9 @@ public class FifthMavenProj {
 	public void Test2() {
 		System.out.println("I am sixth in Test day2 class");
 	}
+	
+	@Test
+	public void Test7() {
+	System.out.println("I am fifth in Test day2 class");	
+	}
 }
