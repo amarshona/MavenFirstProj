@@ -37,6 +37,13 @@ System.out.println("First in Test day1\"");
 	@Test
 	public void TC6() {
 		System.out.println("Fourth in Test day6");
+		System.out.println("Fourth in Test day6");
+		System.out.println("Fourth in Test day6");
+		System.out.println("Fourth in Test day6");
+		System.out.println("Fourth in Test day6");
+		System.out.println("Fourth in Test day6");
+		System.out.println("Fourth in Test day6");
+		System.out.println("Fourth in Test day6");
 	}
 	
 }
