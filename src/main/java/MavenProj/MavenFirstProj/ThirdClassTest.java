@@ -54,4 +54,13 @@ public class ThirdClassTest {
 	public void Loan9() {
 		System.out.println("I am ninth in Test day3 class");
 	}
+	
+	@Test
+	public void Loan10() {
+		System.out.println("I am tenth in Test day3 class");
+	}
+	@Test
+	public void Loan11() {
+		System.out.println("I am 11th in Test day3 class");
+	}
 }
