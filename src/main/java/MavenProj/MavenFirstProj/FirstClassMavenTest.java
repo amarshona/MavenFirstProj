@@ -29,4 +29,14 @@ System.out.println("First in Test day1\"");
 		System.out.println("Fourth in Test day1");
 	}
 	
+	@Test
+	public void TC5() {
+		System.out.println("Fourth in Test day5");
+	}
+	
+	@Test
+	public void TC6() {
+		System.out.println("Fourth in Test day6");
+	}
+	
 }
