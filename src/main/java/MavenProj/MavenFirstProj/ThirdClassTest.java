@@ -57,6 +57,8 @@ public class ThirdClassTest {
 	
 	@Test
 	public void Loan10() {
+
 		System.out.println("I am 10 in Test day3 class");
 	}
+	
 }
