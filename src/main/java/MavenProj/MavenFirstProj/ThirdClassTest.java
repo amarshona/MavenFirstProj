@@ -57,14 +57,8 @@ public class ThirdClassTest {
 	
 	@Test
 	public void Loan10() {
-<<<<<<< HEAD
-		System.out.println("I am tenth in Test day3 class");
-	}
-	@Test
-	public void Loan11() {
-		System.out.println("I am 11th in Test day3 class");
-=======
+
 		System.out.println("I am 10 in Test day3 class");
->>>>>>> c609d73efb7ebf9b71a86644ef3c192901f77cc1
 	}
+	
 }
